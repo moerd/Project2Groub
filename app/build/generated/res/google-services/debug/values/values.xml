@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">631340142411-nrofn45ube85i89v3oq347mem4ff8see.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://ecommerceft.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">631340142411</string>
+    <string name="google_api_key" translatable="false">AIzaSyB2vdUxfqpCVpzhB8aKvG2FoJYNTda88Vs</string>
+    <string name="google_app_id" translatable="false">1:631340142411:android:ae3bd3cd9d23dd21</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB2vdUxfqpCVpzhB8aKvG2FoJYNTda88Vs</string>
+    <string name="google_storage_bucket" translatable="false">ecommerceft.appspot.com</string>
+    <string name="project_id" translatable="false">ecommerceft</string>
+</resources>
